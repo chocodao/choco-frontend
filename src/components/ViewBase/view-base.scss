@@ -1,0 +1,42 @@
+.view-base-root {
+    height: 102vh;
+    width: 102vw;
+    display: flex;
+    flex-direction: column;
+    background: #191310;
+
+    .cubes-top {
+        opacity: 0.6;
+        position: absolute;
+        bottom: 490px;
+        right: 1470px;
+
+        p {
+            font-family: Courier;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 8px;
+            color: #FFFFFF;
+            white-space: pre-wrap;
+            user-select: none;
+        }
+    }
+
+
+    .cubes-bottom {
+        opacity: 0.6;
+        position: absolute;
+        bottom: -215px;
+        right: -125px;
+
+        p {
+            font-family: Courier;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            color: #FFFFFF;
+            white-space: pre-wrap;
+            user-select: none;
+        }
+    }
+}
