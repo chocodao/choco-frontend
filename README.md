@@ -1,5 +1,5 @@
-# [Wonderland Frontend](https://app.wonderland.money/)
-This is the front-end repo for Wonderland. 
+# 🍫 [Choco Frontend](https://app.wonderland.money/)
+This is the front-end repo for Choco's Dapp. 
 
 ##  🔧 Setting up Local Development
 
